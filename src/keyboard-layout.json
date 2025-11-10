@@ -1,0 +1,630 @@
+[
+  [
+    "Esc",
+    {
+      "x": 1,
+      "ta": "\n\n\n\n\n\n\n\n\n#0000ff\n#00ff00",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "F1\n\n\n\n\n\n\n\n\nhotkey 1\nhotkey 9",
+    "F2\n\n\n\n\n\n\n\n\nhotkey 2\nhotkey 10",
+    "F3\n\n\n\n\n\n\n\n\nhotkey 3\nhotkey 11",
+    "F4\n\n\n\n\n\n\n\n\nhotkey 4\nhotkey 12",
+    {
+      "x": 0.5
+    },
+    "F5\n\n\n\n\n\n\n\n\nhotkey 5\nhotkey 13",
+    "F6\n\n\n\n\n\n\n\n\nhotkey 6\nhotkey 14",
+    "F7\n\n\n\n\n\n\n\n\nhotkey 7\nhotkey 15",
+    "F8\n\n\n\n\n\n\n\n\nhotkey 8\nhotkey 16",
+    {
+      "x": 0.5,
+      "ta": "",
+      "fa": []
+    },
+    "F9",
+    "F10",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "F11\n\n\n\n\n\n\nfull screen",
+    {
+      "ta": "",
+      "fa": []
+    },
+    "F12",
+    {
+      "x": 0.25
+    },
+    "PrtSc",
+    "Scroll Lock",
+    "Pause\nBreak"
+  ],
+  [
+    {
+      "y": 0.5
+    },
+    "¬\n`",
+    "!\n1",
+    "\"\n2",
+    "£\n3",
+    "$\n4",
+    "%\n5",
+    "^\n6",
+    "&\n7",
+    "*\n8",
+    "(\n9",
+    ")\n0",
+    {
+      "ta": "\n\n\n\n\n\n\n#00ffff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "_\n-\n\n\n\n\n\nFPS-",
+    "+\n=\n\n\n\n\n\nFPS+",
+    {
+      "ta": "",
+      "fa": [],
+      "w": 2
+    },
+    "Backspace",
+    {
+      "x": 0.25
+    },
+    "Insert",
+    "Home",
+    "PgUp",
+    {
+      "x": 0.25
+    },
+    "Num Lock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "Tab",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Q\n\n\n\n\n\n\nsquad",
+    "W\n\n\n\n\n\n\nup",
+    "E\n\n\n\n\n\n\nZ+",
+    {
+      "ta": "\n\n#ff5500\n#ff0000\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "R\n\nramps\nrec. m\n\n\n\nramps",
+    {
+      "ta": "\n#00ff00\n#ff5500\n#aa00ff\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "T\ntraffic\nstairs\ntrack\n\n\n\ntasks",
+    {
+      "ta": "\n\n\n#00ff00\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Y\n\n\nwold\n\n\n\nlabor",
+    {
+      "ta": "\n\n#ff5500\n#00ff00\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "U\n\nchannel\nburrow\n\n\n\nunits",
+    {
+      "ta": "\n\n\n\n\n#6d4f25\n\n#0000ff",
+      "a": 0,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "I\n\n\n\n\nitem\n\nitem",
+    {
+      "ta": "\n\n#6b6363\n#00ff00\n\n\n\n#0000ff",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "O\n\nore/gem\nartifacts\n\n\n\nwork",
+    {
+      "ta": "\n#6d4f25\n#ff0000\n#00ff00\n\n\n#6b6363\n#0000ff",
+      "fa": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "P\ndump\nplay m\nplace\n\n\n+/-\nstockp",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "{\n[\n\n\n\n\n\nzoom+",
+    "}\n]\n\n\n\n\n\nzoom-",
+    {
+      "x": 0.25,
+      "ta": "",
+      "fa": [],
+      "w": 1.25,
+      "h": 2,
+      "w2": 1.5,
+      "h2": 1,
+      "x2": -0.25
+    },
+    "Enter",
+    {
+      "x": 0.25
+    },
+    "Delete",
+    "End",
+    "PgDn",
+    {
+      "x": 0.25
+    },
+    "7\nHome",
+    "8\n↑",
+    "9\nPgUp",
+    {
+      "h": 2
+    },
+    "+"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Caps Lock",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "A\n\n\n\n\n\n\nleft",
+    {
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "S\n\nsave m\n\n\n\n\ndown",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "D\n\n\n\n\n\n\nright",
+    {
+      "ta": "\n\n\n#aa00ff\n\n\n#6d4f25\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "F\n\n\nfortify\n\n\nforbid\nfluid",
+    {
+      "ta": "\n\n\n#aa00ff\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "G\n\n\nengrave\n\n\n\ngather",
+    {
+      "ta": "\n\n\n#00ff00\n\n\n#6d4f25",
+      "fa": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1
+      ]
+    },
+    "H\n\n\nhotkeys\n\n\nhide",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "J\n\n\n\n\n\n\njustice",
+    "K\n\n\n\n\n\n\nstocks",
+    {
+      "ta": "\n\n#ff0000\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "L\n\nload m\n\n\n\n\nchop",
+    {
+      "ta": "",
+      "fa": []
+    },
+    ":\n;",
+    "@\n'",
+    "~\n#",
+    {
+      "x": 4.75
+    },
+    "4\n←",
+    "5",
+    "6\n→"
+  ],
+  [
+    {
+      "t": "#00ff00",
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "t": "#000000"
+    },
+    "|\n\\",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "Z\n\n\n\n\n\n\nzones",
+    {
+      "ta": "\n\n#ff5500\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "X\n\nremove\n\n\n\n\nerase",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "C\n\n\n\n\n\n\nZ-",
+    {
+      "t": "#6b6363",
+      "ta": "#000000\n\n\n\n\n#aa00ff\n\n#0000ff",
+      "a": 0,
+      "fa": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "V\nall\n\nS+auto\n\nsmooth\n\nsmooth",
+    {
+      "t": "#000000",
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "B\n\n\n\n\n\n\nbuild",
+    {
+      "ta": "\n\n#6b6464\n#00ff00\n\n#6b6363\n\n#0000ff",
+      "a": 0,
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "N\n\nadv\nanncmnt\n\nadv.\n\nnobles",
+    {
+      "t": "#ff5500",
+      "ta": "#000000\n\n\n#aa00ff\n\n\n#6d4f25\n#0000ff",
+      "fa": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+      ]
+    },
+    "M\n\ndig\nsmooth\n\ndig\nmelt\ndig",
+    {
+      "t": "#000000",
+      "ta": "",
+      "a": 4,
+      "fa": []
+    },
+    "<\n,",
+    {
+      "ta": "\n\n\n\n\n\n\n#0000ff",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    ">\n.\n\n\n\n\n\none-step",
+    {
+      "ta": "",
+      "fa": []
+    },
+    "?\n/",
+    {
+      "t": "#00ff00",
+      "w": 2.75
+    },
+    "Shift",
+    {
+      "x": 1.25,
+      "t": "#000000"
+    },
+    "↑",
+    {
+      "x": 1.25
+    },
+    "1\nEnd",
+    "2\n↓",
+    "3\nPgDn",
+    {
+      "h": 2
+    },
+    "Enter"
+  ],
+  [
+    {
+      "t": "#ff0000",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Win",
+    {
+      "t": "#00ffff",
+      "w": 1.25
+    },
+    "Alt",
+    {
+      "t": "#0000ff",
+      "a": 7,
+      "fa": [
+        2
+      ],
+      "w": 6.25
+    },
+    "play/pause",
+    {
+      "t": "#000000",
+      "a": 4,
+      "fa": [],
+      "w": 1.25
+    },
+    "AltGr",
+    {
+      "w": 1.25
+    },
+    "Win",
+    {
+      "w": 1.25
+    },
+    "Menu",
+    {
+      "t": "#ff0000",
+      "w": 1.25
+    },
+    "Ctrl",
+    {
+      "x": 0.25,
+      "t": "#000000"
+    },
+    "←",
+    "↓",
+    "→",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "0\nIns",
+    ".\nDel"
+  ]
+]
